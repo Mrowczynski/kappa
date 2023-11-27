@@ -6,7 +6,7 @@
       "start": "kappa -c config.json"
   },
   "dependencies": {
-    "good": "^3",
-    "good-console": "^2"
+    "good": "^6.0.0",
+    "good-console": "^5.0.0"
   }
 }
