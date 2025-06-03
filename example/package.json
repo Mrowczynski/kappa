@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "good": "^3",
-    "good-console": "^2"
+    "good-console": "^8.0.0"
   }
 }
